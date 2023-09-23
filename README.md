@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-96" alt="pratik-96" /></a> </p>
 
-- 🔭 I’m currently working on [AssignMate](https://github.com/Pratik-96/AssignMate)
+- 🔭 I’m currently working on [Kotlin]()
 
 - 🌱 I’m currently learning **Android Development with Java | Uncovering the power of Firebase (BaaS) | Crafting innovative solutions for a seamless user experience**
 
