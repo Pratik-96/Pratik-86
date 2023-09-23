@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Kotlin]()
 
-- 🌱 I’m currently learning **Android Development with Java | Uncovering the power of Firebase (BaaS) | Crafting innovative solutions for a seamless user experience**
+- 🌱 I’m currently learning **Android Development with Kotlin | Uncovering the power of Firebase (BaaS) | Crafting innovative solutions for a seamless user experience**
 
 - 📫 How to reach me **pratiknandvikar1404@gmail.com**
 
